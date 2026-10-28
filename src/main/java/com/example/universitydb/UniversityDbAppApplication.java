@@ -1,4 +1,4 @@
-package com.example.university_db_app;
+package com.example.universitydb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
